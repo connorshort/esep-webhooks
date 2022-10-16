@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2YNce8d1YR5zM6imdYYZIPisVd/caO7G2Vd1x5PREDAaMmLpVQm/m5A6WfoAwGN+ixequZZXuBEjRTBlEdsBgA==",
+  "success": true,
+  "projectFilePath": "F:\\Documents\\GitHub\\Esep Hooks\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmsKa\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\cmsKa\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\cmsKa\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.10\\microsoft.netcore.app.runtime.linux-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\cmsKa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.10\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\cmsKa\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.10\\microsoft.netcore.app.crossgen2.win-x64.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
