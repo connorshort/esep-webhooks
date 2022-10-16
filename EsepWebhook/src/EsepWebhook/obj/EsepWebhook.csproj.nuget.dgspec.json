@@ -47,6 +47,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.0, )"
+            },
+            "NewtonSoft.json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
